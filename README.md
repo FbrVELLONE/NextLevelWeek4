@@ -1,8 +1,10 @@
 # ABOUT:
-	This repository contains the files from NW4, a fast learning week for improve abilities into NodeJS and ReactJS or start at this knowledge;
-	For the backend track, we built a email sender api where we developped this entire structure in Model-Repository-Controllers way
+This repository contains the files from NW4, a fast learning week for improve abilities into NodeJS and ReactJS or start at this knowledge;
+For the backend track, we built a email sender api where we developped this entire structure in Model-Repository-Controllers way
 
-### Fast notes:
+
+
+### Fast notes (NodeJS):
 
 Database: migrations and entire DB features;
 Models: DB connexion with table correspondance;
@@ -17,3 +19,9 @@ Controllers: Responsable for create the first layer which going to access the re
 
 
 
+
+
+#### Fast Notes (React):
+Components: everything in React, things that u keep seem as repeated multiple times;
+Properties: Like Attributes in HTML, what u can pass through the tags (every component receive "props" as everything, and always has a .children);
+States: variables which u gonna use and change after use it, so you cant use static ways in your html body, u need to use states for that - Imutability principal
