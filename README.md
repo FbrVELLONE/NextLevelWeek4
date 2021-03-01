@@ -25,3 +25,12 @@ Controllers: Responsable for create the first layer which going to access the re
 Components: everything in React, things that u keep seem as repeated multiple times;
 Properties: Like Attributes in HTML, what u can pass through the tags (every component receive "props" as everything, and always has a .children);
 States: variables which u gonna use and change after use it, so you cant use static ways in your html body, u need to use states for that - Imutability principal
+
+-Next - React Framework
+SPA(Single Page Application) = just change some components in the page, but not them all, into the client side with JS (create the entire page in clientside);
+SSR(Server Side Rendering) = 
+SSG(Static Side Generation) = html, css, js pure, but we can update in some timesteps,
+
+CSS modules to not impactate wrongs componentes in our application
+hooks: triggered when called, to do something in this function
+ 
