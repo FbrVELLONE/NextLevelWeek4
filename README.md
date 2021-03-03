@@ -35,4 +35,7 @@ CSS modules to not impactate wrongs componentes in our application
 hooks: triggered when called, to do something in this function
  
 
-Note: When useEffect has second parameter as void ([]), he's going to be executed just one time, in the first page reload time
+Note: When useEffect has second parameter as void ([]), he's going to be executed just one time, in the first page reload execution
+
+##### Deploying:
+Host services: Netify (free), vercel(free) frontend only (execute versal --prod after doing a deploy), 
